@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Algorithms\\Algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj": {}
+    "D:\\2025 projects\\Algorithms\\algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj": {}
   },
   "projects": {
-    "D:\\Algorithms\\Algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj": {
+    "D:\\2025 projects\\Algorithms\\algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Algorithms\\Algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj",
+        "projectUniqueName": "D:\\2025 projects\\Algorithms\\algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\Algorithms\\Algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj",
+        "projectPath": "D:\\2025 projects\\Algorithms\\algorithms\\Duplicate Encoder 08.01.25\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Algorithms\\Algorithms\\Duplicate Encoder 08.01.25\\C#\\obj\\",
+        "outputPath": "D:\\2025 projects\\Algorithms\\algorithms\\Duplicate Encoder 08.01.25\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
